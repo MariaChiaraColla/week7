@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d7FTeXYc7wXnl4q1+TGiTYcvzaDPeCcAJ9d1g4infQ4AHsP8IYUWYeT8LTGx0JVVx24j+yErBCNSr4BBD/azIg==",
+  "dgSpecHash": "XJBzTGEpZo8ZngSPjEU371eQhoA+5Y/Ppmixr00gMuMLDzxO7cCP8XV2EGsrUqurlwBHQc9r8pNo80pvAig52w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maria.chiara.colla\\Documents\\Visual Studio 2019\\Progetti\\esame_week7\\esame_week7\\esame_week7.csproj",
+  "projectFilePath": "C:\\Users\\maria.chiara.colla\\Documents\\Visual Studio 2019\\Progetti\\Esame_settimana7\\esame_week7\\esame_week7\\esame_week7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maria.chiara.colla\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\maria.chiara.colla\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
